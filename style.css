@@ -1,0 +1,209 @@
+.navbar{
+    display: flex;
+    gap: 5%;
+    text-align: center;
+}
+.body{
+    display: flex;
+    gap: 10%;
+    text-align: center;
+
+}
+.paid{
+    background-color: aliceblue;
+}
+.text{
+    text-align: center;
+}
+.images{
+    display: flex;
+    gap: 10%;
+    text-align: center;
+    width: 100px;
+    height: 90px;
+
+
+}
+.create{
+    color:black;
+    background-color:aquamarine;
+}
+#fine{
+    width: 70px;
+}
+.study{
+    color: black;
+    background-color: darkcyan;
+}
+#watch{
+    margin-left: 80%;
+}
+.need{
+    display: flex;
+    gap: 5px;
+}
+.tech{
+    display: flex;
+    gap: 10%;
+}
+.days{
+display: flex;
+gap: 20%;
+}
+
+#man{
+    width: 100px;
+}
+#woman{
+    width: 100px;
+}
+.salary{
+    background-color: beige;
+}
+.product{
+    margin-bottom: 30px;
+    text-align: center;
+    display: flex;
+    gap: 10%;
+    background-color: beige;
+
+}
+.uploading{
+    background-color: aqua;
+}
+.fast{
+    display: flex;
+    gap: 5%;
+}
+#avg{
+    width: 150px;
+    height: 100px;
+}
+.speed{
+    display: flex;
+    gap: 10%;
+}
+.secured{
+   background-color: white; 
+    
+}
+#star{
+    width: 50px;
+    height: 50px;
+}
+.transfers{
+    background-color: white;
+}
+.support{
+    background-color: white;
+}
+.improve{
+    color: black;
+    background-color: burlywood;
+}
+.work{
+    text-align: center;
+    background-color: aquamarine;
+}
+.diti{
+    display: flex;
+    gap: 15%;
+}
+.num1{
+    display: flex;
+    gap: 10px;
+}
+.num2{
+    display: flex;
+    gap: 10px;
+}
+.customer{
+    text-align: center;
+}
+.Mobile{
+    display: flex;
+    gap: 10%;
+    color:black;
+    background-color: aqua;
+}
+.clients{
+    text-align: center;
+}
+.business{
+display: flex;
+gap: 10%;
+}
+.zohir{
+    background-color: beige;
+    border: 2px;
+}
+.jec{
+    background-color: beige;
+
+}
+#app{
+    width: 200px;
+    height: 100px;
+}
+.phone{
+    display: grid;
+}
+.user{
+    margin-left: 15%;
+}
+.download{
+    display: flex;
+    gap: 10%;
+}
+.features{
+    display: flex;
+    gap: 10%;
+    background-color: darkcyan;
+}
+.twitter{
+    display: flex;
+    gap: 5%;
+}
+.footer{
+    display: flex;
+    gap: 10%;
+    background-color: black;
+    color: white;
+}
+@media screen and (max-width: 700px){
+    .navbar{
+        font-size: 10px;
+        gap: 5px;
+    }
+.images{
+    gap: 1px;
+
+
+    
+}
+.features{
+    gap: 5px;
+    font-size: 5px;
+}
+.footer{
+    font-size: 5px;
+}
+.paid{
+  font-size: 4px;  
+}
+#fine{
+    width: 40px;
+    height: 30px;
+}
+.improve{
+    font-size: 5px;
+}
+.work{
+    flex-wrap: wrap;
+}
+}
+
+ 
+
+    
+
